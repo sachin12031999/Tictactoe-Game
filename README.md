@@ -33,7 +33,7 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 ## Screenshort
 
-![Game View](./src/components/img/screenshortgame.jpg)
+![Game View](./src/img/screenshortgame.jpg)
 
 
 ## [Play now](https://gleeful-muffin-7ce570.netlify.app/)
