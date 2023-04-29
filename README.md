@@ -31,11 +31,11 @@ This game was built using the following dependencies:
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
 
+## Screenshort
+
+![Game View](./src/components/img/screenshortgame.jpg)
 
 
 ## [Play now](https://gleeful-muffin-7ce570.netlify.app/)
 
-## Screenshort
-
-![Game View](./src/components/img/screenshortgame.png)
 
