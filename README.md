@@ -35,3 +35,7 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 ## [Play now](https://gleeful-muffin-7ce570.netlify.app/)
 
+## Screenshort
+
+![Game View](./src/components/img/screenshortgame.png)
+
