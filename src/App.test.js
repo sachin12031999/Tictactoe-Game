@@ -1,9 +1,10 @@
 import React from 'react';
 import { render } from '@testing-library/react';
-import App from './App';
 
-test('renders learn react link', () => {
-  const { getByText } = render(<App />);
-  const linkElement = getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
-});
+// यह एक रिएक्ट एप्लिकेशन है जो एक टिकटैक्टो गेम को खेलने की सुविधा प्रदान करता है।
+
+// यहां डिफॉल्ट स्टेट में हमने isCross को false और winMessage को खाली स्थान से शुरू किया है। itemArray एक 9 आइटम लम्बा सरणी है, जो सभी आइटम "खाली" से भरे हुए हैं।
+
+// फ़ंक्शनों के माध्यम से, हम गेम खेलने की स्थिति को अपडेट करते हैं। reloadGame फ़ंक्शन, सभी स्टेट को फिर से खाली स्थिति में सेट करता है। checkIsWinner फ़ंक्शन, सभी संभव जीतने वाली स्थितियों की जांच करता है और अगर कोई जीतता है तो उसे बताता है। changeItem फ़ंक्शन, जब यूजर टिकटैक्टो खेलते समय एक बॉक्स पर क्लिक करते हैं तो उस बॉक्स का स्थान बदल जाता है और वह अब "cross" या "circle" हो जाता है।
+
+// संपूर्ण एप्लिकेशन दिखाई दे रहा है और जब जीतता है तो एक सफलता टोस्ट दिखाई देता है जो कि "React Toastify" नामक थर्ड पार्टी लाइब्रेरी द्वारा प्रदान किया जाता है।
