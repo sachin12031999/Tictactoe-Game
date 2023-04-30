@@ -6,7 +6,7 @@ This is a Tic Tac Toe game built using ReactJS. It is a simple game where two pl
 
 To install and run the game locally, follow these steps:
 
-1. Clone this repository to your local machine
+1. Clone this repository to your local machine `gh repo clone sachin12031999/Tictactoe-Game`
 2. Install the required dependencies by running `npm install`
 3. Run the development server using `npm start`
 
