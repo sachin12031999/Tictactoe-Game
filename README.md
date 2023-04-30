@@ -33,7 +33,7 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 ## Screenshort
 
-![Game View](./public/Ss/screenshortgame.jpg)
+![Game View](https://sachin12031999.github.io/Tictactoe-Game/public/Ss/screenshortgame.jpg)
 
 
 ## [Play now](https://gleeful-muffin-7ce570.netlify.app/)
