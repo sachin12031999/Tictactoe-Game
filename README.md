@@ -6,7 +6,7 @@ This is a Tic Tac Toe game built using ReactJS. It is a simple game where two pl
 
 To install and run the game locally, follow these steps:
 
-1. Clone this repository to your local machine `gh repo clone sachin12031999/Tictactoe-Game`
+1. Clone this repository to your local machine `gh repo clone sachinpandeygurh/Tictactoe-Game`
 2. Install the required dependencies by running `npm install`
 3. Run the development server using `npm start`
 
@@ -33,7 +33,7 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 ## Screenshort
 
-![Game View](./public/Ss/screenshortgame.jpg)
+![Game View](./Ss/screenshortgame.jpg)
 
 
 ## [Play now](https://gleeful-muffin-7ce570.netlify.app/)
